@@ -1,0 +1,7 @@
+# - Config file for the MSGPACK package
+# It defines the following variables
+#  MSGPACK_FOUND - indicates that the module was found
+#  MSGPACK_INCLUDE_DIR - include directories
+
+set(MSGPACK_FOUND TRUE)
+set(MSGPACK_INCLUDE_DIR "@INSTALL_INCLUDE_DIR@")
